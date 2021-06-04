@@ -1,0 +1,64 @@
+[
+    {
+        "name":"Home Todos",
+        "color": "#1eae98",
+        "todos":[
+            {
+                "name":"Take out the dog",
+                "completed":"false"
+            },{
+                "name":"Feed the dog",
+                "completed":"false"
+            },{
+                "name":"Shower the dog",
+                "completed":"true"
+            },{
+                "name":"Take the dog to vet",
+                "completed":"true"
+            }
+        ]
+    },{
+        "name":"Home Todos",
+        "color": "#a58faa",
+        "todos":[
+            {
+                "name":"Take out the dog",
+                "completed":"false"
+            },{
+                "name":"Take out the dog",
+                "completed":"false"
+            },{
+                "name":"Take out the dog",
+                "completed":"false"
+            },{
+                "name":"Take out the dog",
+                "completed":"false"
+            },{
+                "name":"Take out the dog",
+                "completed":"true"
+            }
+        ]
+    },{
+        "name":"Home Todos",
+        "color": "#f29191",
+        "todos":[
+            {
+                "name":"Take out the dog",
+                "completed":"false"
+            },{
+                "name":"Take out the dog",
+                "completed":"false"
+            },{
+                "name":"Take out the dog",
+                "completed":"false"
+            },{
+                "name":"Take out the dog",
+                "completed":"false"
+            },{
+                "name":"Take out the dog",
+                "completed":"true"
+            }
+        ]
+    }
+]
+    
